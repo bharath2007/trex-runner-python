@@ -12,6 +12,10 @@ A Chrome-style T-Rex endless runner built using Python and Pygame CE.
 - Start screen and game over screen
 - Increasing difficulty system (speed scales with score)
 
+  ## 📸 Screenshot
+![Game Screenshot](screenshots/trex.png)
+
+
 ## 🛠️ Tech Used
 - **Python 3.14**
 - **Pygame CE 2.5.6**
